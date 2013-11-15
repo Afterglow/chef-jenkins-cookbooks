@@ -1,3 +1,6 @@
+EXAMPLE ONLY -- FOR REFERENCE USE -- EXAMPLE ONLY
+=================================================
+
 jenkins-cookbooks
 =================
 This cookbook is an example of how to iterate a Github enterprise organisation containing 
