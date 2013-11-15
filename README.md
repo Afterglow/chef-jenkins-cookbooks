@@ -1,7 +1,10 @@
 jenkins-cookbooks
 =================
-This cookbook iterates a Github enterprise organisation containing 
-cookbooks and creates jobs for them on a Jenkins server
+This cookbook is an example of how to iterate a Github enterprise organisation containing 
+cookbooks and create jobs for them on a Jenkins server automatically. While it will work
+standalone it is more designed to act as an example of how this can be done. The libraries
+included were stripped from our internal CI configuration cookbook with example cookbooks, 
+attributes and templates added for clarity.
 
 Requirements
 ------------
